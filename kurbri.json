@@ -1,0 +1,112 @@
+{
+	"Ads": [{
+		"select_ads": "ADMOB",
+		"status_app": "0",
+		"link_redirect": "https://",
+		"admob_interid": "",
+		"admob_nativeid": "",
+		"admob_openid": "",
+		"interval_intertitial": "2",
+		"startappid": "",
+		"fan_inter": "",
+		"fan_banner_native": "",
+		"mopub_banner": "",
+		"mopub_inter": "",
+		"unityID": "",
+		"unity_inter": "video",
+		"unity_banner": "bannerid",
+		"packagename": "com.kurbrionline.pinjammodal.cepatcair"
+	}],
+	"More": [
+
+	],
+
+	"Categories": [{
+		"id": 1,
+		"name_category": "Cara Pinjaman KUR BRI",
+		"image": "file:///android_asset/image/logo.jpg"
+
+	}],
+
+	"Data": [{
+			"id": 1,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Jenis-Jenis KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Mengetahui jenis-jenis dari KUR BRI",
+			"link": "file:///android_asset/guide/1.html"
+		},
+		{
+			"id": 2,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Bunga KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara menghitung bunga KUR BRI",
+			"link": "file:///android_asset/guide/2.html"
+		},
+		{
+			"id": 3,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Syarat Pinjaman",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Sayarat yang dibutuhkan untuk pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/3.html"
+		},
+		{
+			"id": 4,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Tabel Pinjaman",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Tabel Pinjaman KUR BRI",
+			"link": "file:///android_asset/guide/4.html"
+		},
+		{
+			"id": 5,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Cara Pengajuan Secara Offline",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara pengajuan KUR BRI secara offline",
+			"link": "file:///android_asset/guide/5.html"
+		},
+		{
+			"id": 6,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Cara Pengajuan Secara Online",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara pengajuan KUR BRI secara online",
+			"link": "file:///android_asset/guide/6.html"
+		},
+		{
+			"id": 7,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Cara dan Syarat Pengajuan KUR BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Cara dan syarat lengkap untuk menaftar pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/7.html"
+		},
+		{
+			"id": 8,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "Syarat Mengajukan KUR Super Mikro BRI Online",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Langkah-langkah pengajuan KUR Super Mikro BRI secara online",
+			"link": "file:///android_asset/guide/8.html"
+		},
+		{
+			"id": 9,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "KUR Digital BRI",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Ulasan tentang KUR Digital BRI",
+			"link": "file:///android_asset/guide/9.html"
+		},
+		{
+			"id": 10,
+			"name_category": "Cara Pinjaman KUR BRI",
+			"title": "UPDATE Tabel Pinjaman Bank BRI - Brosur Angsuran KUR - Simulasi Cicilan",
+			"image": "file:///android_asset/image/logo.jpg",
+			"description": "Apa saja yang perlu diketahui sebelum pengajuan KUR BRI",
+			"link": "file:///android_asset/guide/10.html"
+		}
+	]
+}
